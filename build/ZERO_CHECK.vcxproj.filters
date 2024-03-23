@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\build\CMakeFiles\65e704f182f0d737b247fff1b906f33d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DEAE18A0-A3C8-3188-88C8-A7BE80F00A94}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

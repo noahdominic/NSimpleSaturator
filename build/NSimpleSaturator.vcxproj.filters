@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\source\NSimpleSaturatorprocessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\source\NSimpleSaturatorcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\source\NSimpleSaturatorentry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\VST_SDK\vst3sdk\public.sdk\source\main\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\source\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\source\NSimpleSaturatorcids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\source\NSimpleSaturatorprocessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\source\NSimpleSaturatorcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\resource\9E66FA67818C5E25AD9CFCA085E38588_snapshot.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\resource\9E66FA67818C5E25AD9CFCA085E38588_snapshot_2.0x.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\ndsil\Developer\Labs\VST3\NSimpleSaturator\resource\win32resource.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EFE4E9DE-9942-364F-9FC3-54A026A7FCEC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{5A34C56B-38DD-3A89-B856-5ED8BD8A32E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F3FF9763-B22D-37B1-9856-202C092AF73D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
