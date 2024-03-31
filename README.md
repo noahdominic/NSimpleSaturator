@@ -17,7 +17,7 @@ NSimpleSaturator features the following parameters:
 
 Simply adjust these parameters according to your preferences to shape the clipped audio signal.
 
-## How clipping works
+## How saturation works
 
 The algorithm for NSimpleSaturator uses a hyperbolic tangent function $\tanh$ to introduce some nonlinearity to the audio signal for some positive saturation level $k$. The equation 
 
